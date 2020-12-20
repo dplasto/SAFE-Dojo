@@ -4,3 +4,8 @@ image:
 tasks:
   - init: npm install && npm run build
     command: npm run start
+
+vscode:
+  extensions:
+    - ionide.ionide-fsharp@5.0.0-preview03:Uwp5uxggOSeR9WYky2Kt2w==
+    - ms-dotnettools.csharp@1.23.8:iO8KaJulQm9UBFXlmZNiog==
