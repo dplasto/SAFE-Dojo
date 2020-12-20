@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk
+FROM gitpod/workspace-dotnet
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
